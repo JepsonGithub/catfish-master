@@ -325,9 +325,10 @@ samp {
     border-radius: 3px;
     padding: 2px 4px 0px 4px;
     font-size: 0.9em;
+    font-family: Source Han Sans SC, sans-serif;
 }
 .cm-s-inner .cm-comment {
-  color: #609753;
+  color: #888;
 }
 blockquote {
   color: #333;
