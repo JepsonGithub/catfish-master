@@ -314,3 +314,21 @@ footer {
 .md-diagram-panel-preview {
   color: #263238;
 }
+
+/* --------------------------- 修改单行注释 --------------------------------- */
+/* 修改行内代码样式 */
+code,
+samp {
+    color: #c7254e;
+    background-color: #f9f2f4;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 2px 4px 0px 4px;
+    font-size: 0.9em;
+}
+.cm-s-inner .cm-comment {
+  color: #609753;
+}
+blockquote {
+  color: #333;
+}
