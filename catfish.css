@@ -333,3 +333,6 @@ samp {
 blockquote {
   color: #333;
 }
+.md-fences {
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;;
+}
